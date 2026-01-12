@@ -1,0 +1,7 @@
+watchdog
+pdfplumber
+python-dotenv
+anthropic
+google-api-python-client
+google-auth-oauthlib
+requests
